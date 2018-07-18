@@ -1,1 +1,1 @@
-import '../shared/shared'
+import '../app2/app2'
